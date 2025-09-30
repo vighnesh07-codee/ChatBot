@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template. To add it, see [this documen
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# ChatBot
+A modern, interactive chatbot built with React.js. Features include bot and user avatars, scrollable chat, typing indicator, rounded send button with animations, and basic AI replies for daily life and tech-related queries. Perfect for learning React state management and UI design.
+>>>>>>> bc9fae32dfe250e3dc073dfb151deacf20d24e2e
